@@ -6,13 +6,21 @@ Hello Season MVP
     <head>
         <meta charset="UTF-8">
         <title>Home - Hello Season!</title>
-        
-        
+ 
         <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,700|Open+Sans|Playball|Playfair+Display:700i|Raleway:400,500|Vollkorn:400i" rel="stylesheet"> 
         <link href="css/fonts.css" rel="stylesheet" type="text/css"/>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="css/reset.css" rel="stylesheet" type="text/css"/>
         <link href="css/responsive.css" rel="stylesheet" type="text/css"/>
+             
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130177783-1"></script>
+            <script>
+                 window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                       gtag('js', new Date());
+                       gtag('config', 'UA-130177783-1');
+            </script>
     </head>
     <body>
         <div class="page">
